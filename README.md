@@ -1,6 +1,6 @@
 # Responsive-Design
 
-In this module challenge you will continue working on your portfolio website to make it compatible for different browser widths.
+In this module cha llenge you will continue working on your portfolio website to make it compatible for different browser widths.
 
 ## User Interface and Git
 
